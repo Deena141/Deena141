@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Deena Dayalan, a B.Tech Information Technology student.<br><br>💻 I'm a beginner developer interested in Web Development, Python, AI & Machine Learning.<br>🌱 Currently learning new technologies and improving my coding skills.<br>🚀 I enjoy building simple projects and participating in hackathons.<br>📚 Always learning, practicing, and trying to improve step by step.<br>Beginner-friendly Skills<br><br>Languages<br><br>Python<br>JavaScript<br>HTML<br>CSS<br>Java<br><br>Learning<br><br>AI & Machine Learning<br>Node.js<br>MongoDB<br>Git & GitHub<br><br>Other<br><br>Problem Solving<br>Logical Thinking<br>Teamwork<br>Time Management
+👋 Hi! I'm Deena Dayalan, a B.Tech Information Technology student.<br><br>💻 I'm a beginner developer interested in Web Development, Python, AI & Machine Learning.<br>🌱 Currently learning new technologies and improving my coding skills.<br>🚀 I enjoy building simple projects and participating in hackathons.<br>📚 Always learning, practicing, and trying to improve step by step.
 
 
 ## 🌐 Socials:
